@@ -99,26 +99,26 @@ namespace tarea_de_progra
             public void mostrarDatos1()
             {
                 Console.WriteLine();
-                Console.WriteLine( "caja1 \n" +   "altura: " + altura +  "    " +   "Ancho: "+ ancho + "    "+ "Profundidad: " + profundidad);      Console.WriteLine("_____________________________________________________");
+                Console.WriteLine( "caja1 \n" +   "altura: " + altura +  "    " +   "Ancho: "+ ancho + "    "+ "Profundidad: " + profundidad);   
                 Console.WriteLine();
             }
             public void mostrarDatos2()
             {
                 Console.WriteLine();
-                Console.WriteLine( "caja2 \n "  + "altura: " + altura + "    " + "Ancho: " + ancho + "    " + "Profundidad: " +  profundidad + "    " + "color: " + color + "" ); Console.WriteLine("_________________________________________________________________");
+                Console.WriteLine( "caja2 \n "  + "altura: " + altura + "    " + "Ancho: " + ancho + "    " + "Profundidad: " +  profundidad + "    " + "color: " + color + "" ); 
                 Console.WriteLine();
             }
             public void mostrarDatos3()
             {
                 Console.WriteLine();
                 Console.WriteLine( "caja3 \n "+"altura: " + altura + "    " + "Ancho: " + ancho + "    " + "Profundidad: " + profundidad  );
-                Console.WriteLine("color:  " + color + "    " + "Tipo de material: " + Tmaterial + "    " + "Estructuras: " + estructuras + "    " + "nombre de la empresa: " + Nombreempresa + "    " + "Donde se abre la caja: " + apertura); Console.WriteLine("________________________________________________________________________________________________________________________________________________");
+                Console.WriteLine("color:  " + color + "    " + "Tipo de material: " + Tmaterial + "    " + "Estructuras: " + estructuras + "    " + "nombre de la empresa: " + Nombreempresa + "    " + "Donde se abre la caja: " + apertura);
             }
             public void mostrarDatos4()
             {
                 Console.WriteLine();
                 Console.WriteLine("caja4 \n"+"altura: " + altura + "    " + "Ancho: " + ancho + "    " + "Profundidad: " + profundidad + "    ");
-                Console.WriteLine("color:  " + color + "    " + "Tipo de material: " + Tmaterial + "    " + "Estructuras: " + estructuras + "    " + "nombre de la empresa: " + Nombreempresa + "    " + "Donde se abre la caja: " + apertura); Console.WriteLine("__________________________________________________________________________________________________________________________________________________");
+                Console.WriteLine("color:  " + color + "    " + "Tipo de material: " + Tmaterial + "    " + "Estructuras: " + estructuras + "    " + "nombre de la empresa: " + Nombreempresa + "    " + "Donde se abre la caja: " + apertura);
             }
 
 
